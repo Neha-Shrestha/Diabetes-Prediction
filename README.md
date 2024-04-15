@@ -4,7 +4,7 @@ This repository contains code for modeling data using various machine learning a
 
 1. Modeling Data:
 - Implemented machine learning models using popular algorithms.
-- Utilized Python libraries such as Scikit-learn for model implementation and evaluation.
+- Utilized Python libraries such as scikit-learn for model implementation and evaluation.
   
 2. Algorithm Comparison:
 - Analyzed accuracy metrics for each algorithm to understand their performance on the dataset.
